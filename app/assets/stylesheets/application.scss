@@ -1,8 +1,8 @@
 @import 'materialize';
 
-//input[autofocus]:focus {
-//  transition: none
-//}
+input[autofocus]:focus {
+  transition: none
+}
 
 //html[data-turbolinks-preview] input:focus:not([readonly]) {
 //  border-bottom: $input-border;
