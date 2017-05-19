@@ -3,5 +3,6 @@ class PagesController < ApplicationController
   end
 
   def page_2
+    sleep 1
   end
 end
